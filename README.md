@@ -20,5 +20,4 @@ Difficulty is divided as follows:
 ## Websites
 
 1. 🐯 How to become a devops engineer in six months or less [medium](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-
 2. 🐯 Build your first javascript github action [freecodecamp](https://www.freecodecamp.org/news/build-your-first-javascript-github-action/)
