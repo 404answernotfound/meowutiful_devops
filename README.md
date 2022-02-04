@@ -2,11 +2,11 @@
 
 Difficulty is divided as follows:
 
-🐯 1 tiger level, beginner friendly
-🐯 🐯 2 tigers level, already started and used devops in some ways
-🐯 🐯 🐯 3 tigers level, advanced topics
-🐯 🐯 🐯 🐯 4 tigers level, industry ready topics
-🐯 🐯 🐯 🐯 🐯 5 tigers level, way of the master
+🐯 1 tiger level, beginner friendly\
+🐯 🐯 2 tigers level, already started and used devops in some ways\
+🐯 🐯 🐯 3 tigers level, advanced topics\
+🐯 🐯 🐯 🐯 4 tigers level, industry ready topics\
+🐯 🐯 🐯 🐯 🐯 5 tigers level, way of the master\
 
 ## Youtube Channels
 1. 🐯 Tech with Nana [Nana](https://www.youtube.com/watch?v=0yWAtQ6wYNM)https://www.youtube.com/watch?v=j5Zsa_eOXeY
