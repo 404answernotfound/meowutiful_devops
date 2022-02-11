@@ -16,4 +16,10 @@ Difficulty is divided as follows:
 ## Youtube Videos
 
 
-## Websites
+## Cloud Platforms for DevOps
+1. 🐯 Heroku Platform [heroku](https://dashboard.heroku.com/login)
+
+
+## Resources
+1. 🐯 How to build your first Javascript Github Action [freecodecamp](https://www.freecodecamp.org/news/build-your-first-javascript-github-action/)
+2. 🐯 Gitlab Learning Paths - Github Actions [gitlab](https://lab.github.com/githubtraining/devops-with-github-actions)
