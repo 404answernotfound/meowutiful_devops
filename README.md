@@ -10,7 +10,7 @@ Difficulty is divided as follows:
 
 ## Youtube Channels
 
-1. 🐯 Tech with Nana [Nana](https://www.youtube.com/watch?v=0yWAtQ6wYNM)https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+1. 🐯 Tech with Nana [Nana](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 
 ## Youtube Videos
 
